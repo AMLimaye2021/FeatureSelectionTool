@@ -118,7 +118,7 @@ def geneMax(rM, geneIndex):
 
 def main():
     fname = "cache.pkl"
-    rebuildcache = False
+    rebuildcache = True
 
 
     if rebuildcache:
